@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.card {
+  padding: 8px;
+  width: 20vw;
+  text-align: center;
+}
+.img {
+  height: 80px;
+}
+.name {
+  font-size: 15px;
+  font-family: 'Roboto';
+}
